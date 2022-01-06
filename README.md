@@ -2,6 +2,8 @@
 
 > This is a wrapper to work with Vimeo's API to extend PyVimeo
 
+![Example](docs/python-vimeo.gif)
+
 ## Setup: Make sure you have:
 1. A Vimeo app
 2. Your Vimeo access token should have all the permissions you need (see the Vimeo API reference for information on which permissions you need)
